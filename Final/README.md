@@ -2,7 +2,7 @@
 
 Considering some 200 odd years of data which contains Average Temperature and Average Temperature Uncertainty along with the countries and dates it was recorded in.
 
-# H1 ANALYSIS 1
+#  ANALYSIS 1
 Using Seaborn to plot all the temperatures and temperature uncertainties are plotted in the graph.
 
 ![tempdist](https://cloud.githubusercontent.com/assets/13572497/25310552/9e0b0ce4-27b4-11e7-9a36-9b7fe11c5a6c.png)

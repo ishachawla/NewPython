@@ -1,6 +1,7 @@
-                                                 #H1 GLOBAL EARTH TEMPERATURE DATA
+                                                 # GLOBAL EARTH TEMPERATURE DATA
 
-Considering some 200 odd years of data which contains Average Temperature and Average Temperature Uncertainty along with the countries and dates it was recorded in.
+Considering some 200 odd years of data which contains Average Temperature and Average Temperature Uncertainty along with the countries and dates it was recorded in. The data is actually from Berkley Earth which they made available publicly to people to assess global warming harms and temperature trends.
+I have considered one part of the entire historical data for my analysis.
 
 #  ANALYSIS 1
 Using Seaborn to plot all the temperatures and temperature uncertainties are plotted in the graph.
